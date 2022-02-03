@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/drawable-mdpi/roundedbutton.xml" value="0.179" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/drawable-mdpi/roundedcorner.xml" value="0.179" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_boking.xml" value="0.33" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_listview.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/activity_review.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/anony/Documents/Home/app/src/main/res/layout/listview.xml" value="0.46344086021505376" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

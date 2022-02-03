@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="nama">nama</string>
+    <string name="jumlah">jumlah</string>
+    <string name="getNama">getNama</string>
+    <string name="price">price</string>
+    <string name="input_error_password" />
+    <string name="registration_success" />
+</resources>
